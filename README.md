@@ -1,4 +1,4 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=github.com/EfrenZaidinVergeles&right_color=#ff00ff)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=github.com/EfrenZaidinVergeles&right_color=pink)
 
 ### Hi there 👋
 
