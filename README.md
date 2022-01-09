@@ -2,5 +2,5 @@
 
 ### Hi there 👋
 
-- ⚡ I’m currently learning Assembly, Reversing & Cibersecurity In General
+- ⚡ I’m currently learning Assembly, Reversing & Cybersecurity In General
 
